@@ -18,11 +18,8 @@ Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA.
 
 You can contact us at https://github.com/struct78/battlefield-stats.
 */
-using System.Threading;
-using BF3Stats;
 using BF3Stats.Enums;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
-using System;
 
 namespace BF3Stats.Tests
 {
