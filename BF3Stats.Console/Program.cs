@@ -37,8 +37,6 @@ namespace BF3Stats.Console
 			target.GetPlayerStatsComplete += delegate(Player p)
 				                                {
 				                                 	player = p;
-				                                 	System.Console.Write(player.Statistics.CoopMissions.Count);
-				                                 	System.Console.Write(" coop missions found");
 				                                };
 
 			System.Console.Write("Loading...");
