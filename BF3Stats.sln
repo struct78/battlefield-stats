@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BF3Stats", "BF3Stats\BF3Stats.csproj", "{D55C9121-F756-4CE8-B3EA-C51A48B1BB00}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BF3Stats", "src\BF3Stats\BF3Stats.csproj", "{D55C9121-F756-4CE8-B3EA-C51A48B1BB00}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{7983F240-AA15-417C-967F-120EC04D5C3C}"
 	ProjectSection(SolutionItems) = preProject
