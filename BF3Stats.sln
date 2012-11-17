@@ -14,9 +14,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BF3Stats.Tests", "BF3Stats.
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{82D4B802-6F60-46DF-A060-094B9BDAF2A4}"
 	ProjectSection(SolutionItems) = preProject
-		BF3Stats.vsmdi = BF3Stats.vsmdi
-		Local.testsettings = Local.testsettings
-		TraceAndTestImpact.testsettings = TraceAndTestImpact.testsettings
+		README.md = README.md
 	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BF3Stats.Console", "BF3Stats.Console\BF3Stats.Console.csproj", "{E4EF18A8-C129-4E4C-825D-CF01E8730D43}"
